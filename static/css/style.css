@@ -1,0 +1,38 @@
+::-webkit-scrollbar {
+    width: 16px;
+}
+ 
+::-webkit-scrollbar-track {
+    background-color: #e4e4e4;
+    border-radius: 100px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border: 5px solid transparent;
+    border-radius: 100px;
+    background-color: #8070d4;
+    background-clip: content-box;
+}
+
+.form-div{
+    margin: 10% 5%;
+    height: 70vh;
+    border-radius: 30px;
+    padding: 50px 50px;
+    box-shadow: 10px 10px 20px gray;
+}
+
+.container{
+    height:95vh;
+}
+
+.idimg{
+
+    border-radius: 25px;
+    box-shadow: 10px 10px 20px gray;
+}
+
+.showform{
+    padding: 100px 50px;
+}
+
